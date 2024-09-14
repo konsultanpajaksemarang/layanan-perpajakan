@@ -1,6 +1,6 @@
 # Layanan Perpajakan dari Jasa Konsultan Pajak ISBConsultant.com
 
-<img url="https://isbconsultant.com/wp-content/uploads/2023/08/tim-jasa-konsultan-pajak-semarang-1024x653.jpeg">konsultan pajak semarang</img>
+<img src="https://isbconsultant.com/wp-content/uploads/2023/08/tim-jasa-konsultan-pajak-semarang-1024x653.jpeg">konsultan pajak semarang</img>
 
 ISBC adalah mitra tepercaya dalam membantu klien mengelola kewajiban perpajakan secara efektif dan efisien. Sebagai [konsultan pajak di Semarang](https://isbconsultant.com/konsultan-pajak-semarang/) yang terpercaya, kami berkomitmen untuk memberikan solusi pajak yang tepat sasaran dan sesuai dengan kebutuhan setiap klien, baik individu maupun perusahaan. Dengan layanan yang komprehensif, mulai dari perencanaan pajak strategis hingga pengelolaan laporan SPT, ISBC memastikan bahwa segala kewajiban pajak klien dipenuhi secara tepat waktu dan sesuai regulasi yang berlaku. Hal ini penting untuk menghindari potensi denda dan sanksi dari otoritas perpajakan.
 
